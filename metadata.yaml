@@ -1,0 +1,33 @@
+_repo: Medical-Essays-1842-1882_2700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+description: ''
+gutenberg_issued: '2004-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine'
+- !lcsh 'Homeopathy'
+- !lcsh 'Education, Medical -- Massachusetts -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Libraries, Medical -- Massachusetts -- 19th century'
+- GITenberg
+tableOfContents: Homoeopathy and its kindred delusions -- The contagiousness of puerperal
+  fever -- Currents and counter-currents in medical science -- Border lines of knowledge
+  in some provinces of medical science -- Scholastic and bedside teaching -- The medical
+  profession in Massachusetts -- The young practitioner -- Medical libraries -- Some
+  of my early teachers
+title: Medical Essays, 1842-1882
+url: http://www.gutenberg.org/ebooks/2700
